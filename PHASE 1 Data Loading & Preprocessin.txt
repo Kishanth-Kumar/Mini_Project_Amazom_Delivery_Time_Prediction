@@ -1,0 +1,45 @@
+PHASE 1: Data Loading & Preprocessing
+Load CSV
+
+Parse datetime columns
+
+Clean missing values
+
+Encode categorical features
+
+Calculate distance from lat/lon
+
+✅ PHASE 2: Feature Engineering
+Extract hour, weekday from timestamps
+
+Calculate pickup delay
+
+Normalize / scale numeric features
+
+✅ PHASE 3: Model Training
+Train/test split
+
+Train Linear Regression, Random Forest, and XGBoost
+
+Evaluate using RMSE, MAE, R²
+
+Log results with MLflow
+
+✅ PHASE 4: Streamlit App
+Load saved model
+
+Build UI to input order data
+
+Predict and show delivery time
+
+✅ PHASE 5: Optional Enhancements
+Model comparison dashboard
+
+Add confidence intervals
+
+Save predictions to CSV or database
+
+
+
+
+--------------------------------------
